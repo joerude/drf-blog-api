@@ -1,5 +1,11 @@
 # drf-blog-api
 
+
+Run following commands in shell:
+
+
+git clone https://github.com/joerude/drf-blog-api <br>
+
 Install poetry: **pip install poetry**
 
 run:  **poetry install** — to install packages
